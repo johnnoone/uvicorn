@@ -1,5 +1,6 @@
 click
 h11
+h2
 
 # Optional
 httptools
